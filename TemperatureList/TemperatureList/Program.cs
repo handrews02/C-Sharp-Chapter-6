@@ -27,9 +27,7 @@ namespace TemperatureList
             {
                 difference = average - temp[j];
                 WriteLine("The temps you entered were {0} and they were {1} from the average {2} ", temp[j], difference, average );
-
             }
-
         }
     }
 }
