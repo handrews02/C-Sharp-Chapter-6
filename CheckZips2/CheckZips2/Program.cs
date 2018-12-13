@@ -27,7 +27,7 @@ namespace CheckZips2
                 if (zips[i] == zip)
                 {
                     WriteLine("We can deliver!");
-                    result = 1; ;
+                    result = 1; 
                 }
             }
             if (result != 1)
